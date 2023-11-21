@@ -44,7 +44,4 @@ This is a mobile application-based health assistant with integrated machine-lear
 
 
 
-##Api
-https://github.com/majharul181/Mental-Health-Detection-api
-
 
